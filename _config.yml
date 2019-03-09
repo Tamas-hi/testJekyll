@@ -21,11 +21,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-<<<<<<< HEAD
 source: ./site
-=======
-source: site
->>>>>>> 8fdd320ffdd968040b917ac807c9994fae099732
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
